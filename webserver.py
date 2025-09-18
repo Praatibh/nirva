@@ -3,7 +3,7 @@ import threading
 import os
 
 # Import your bot
-from main import bot, TOKEN
+from bot_new import bot, TOKEN
 
 app = Flask(__name__)
 
